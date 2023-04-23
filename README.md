@@ -28,7 +28,7 @@ A quick guide of how to install and use OAO.
 
 ```shell
 1. go install github.com/oppsec/OAO@latest
-2. oao -u admin -p 123 -t victim -g "EXCHANGE TRUSTED SUBSYSTEM" -m add/rem
+2. oao -u Administrator@domain.local -p P@ssword123 -t victim@domain.local -g "EXCHANGE TRUSTED SUBSYSTEM" -m add/rem
 ```
 
 You can use `go install github.com/oppsec/OAO@latest` to update the tool
