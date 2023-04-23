@@ -51,7 +51,7 @@ You can use `go install github.com/oppsec/OAO@latest` to update the tool
 <br>
 
 ### ⚔️ Attack Scenario & Suggestions
-First of all, we suggest you to use this tool in combination with BloodHound to easily find exploitable paths. You can find a real attack scenario on our [article](https://twitter.com) that we used an another version to just add a specific user to a group with high privileges and use DSync attack to extract the Domain Admin NTLM hash.
+First of all, we suggest you use this tool in combination with BloodHound to easily find exploitable paths. You can find a real attack scenario in our article we used another version to just add a specific user to a group with high privileges and use DSync attack to extract the Domain Admin NTLM hash.
 
 <div align="left">
     <img src="https://i.imgur.com/1xfCaMC.png">
@@ -68,12 +68,12 @@ First of all, we suggest you to use this tool in combination with BloodHound to 
 A quick guide of how to contribute with the project.
 
 ```shell
-1. Create a fork from OAO repository.
+1. Create a fork from OAO repository
 2. Download the project with git clone https://github.com/your/OAO.git
 3. cd OAO/
-4. Make your changes.
-5. Commit and make a git push.
-6. Open a pull request.
+4. Make your changes
+5. Commit and make a git push
+6. Open a pull request
 ```
 
 <br>
