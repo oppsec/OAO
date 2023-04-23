@@ -15,6 +15,8 @@
     <img src="https://img.shields.io/github/languages/code-size/oppsec/OAO?color=cyan&logo=github&logoColor=cyan&style=for-the-badge">
 </p>
 
+___
+
 ### 🕵️ What is OAO?
 🕵️ **OAO** is a Golang tool to interact with the LDAP protocol to manage account groups, roles, ACLs/ACEs, etc...
 
