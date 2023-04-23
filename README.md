@@ -51,7 +51,13 @@ You can use `go install github.com/oppsec/OAO@latest` to update the tool
 ### ⚔️ Attack Scenario & Suggestions
 First of all, we suggest you to use this tool in combination with BloodHound to easily find exploitable paths. You can find a real attack scenario on our [article](https://twitter.com) that we used an another version to just add a specific user to a group with high privileges and use DSync attack to extract the Domain Admin NTLM hash.
 
-<img src="https://i.imgur.com/1xfCaMC.png">
+<div align="left">
+    <img src="https://i.imgur.com/1xfCaMC.png">
+    <br><br>
+    <img src="https://i.imgur.com/la3e7vM.png">
+    <br><br>
+    <img src="https://i.imgur.com/Y7P7HZn.png">
+</div>
 
 <br>
 
