@@ -1,4 +1,4 @@
-# OAO (Operating Account Operators)
+# ⚙️ OAO (Operating Account Operators)
 > ⚙️ Operating Account Operators (OAO) is a Golang tool to interact with the LDAP protocol to manage account groups, roles, ACLs/ACEs, etc...
 
 <div align="center">
