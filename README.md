@@ -18,7 +18,7 @@
 ___
 
 ### 🕵️ What is OAO?
-🕵️ **OAO** is a Golang tool to interact with the LDAP protocol to manage account groups, roles, ACLs/ACEs, etc...
+🕵️ **OAO** is a Golang tool to interact with the LDAP protocol to manage account groups, roles, ACLs/ACEs, etc... This tool has been developed and maintened by oppsec and [mezzanine](https://github.com/march0s1as)
 
 <br>
 
