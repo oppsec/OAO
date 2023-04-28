@@ -19,7 +19,7 @@ func error(err interface{}){
 
 func help(){
 	fmt.Println("[!] You need to specify a group and module from arguments.")
-	fmt.Println(" > e.g: ./oao -u domain.local/username:password@IP -g 'Domain Admins' -m add")
+	fmt.Println(" > e.g: OAO -u domain.local/username:password@IP -g 'Domain Admins' -m add")
 }
 
 func main(){
